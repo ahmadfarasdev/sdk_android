@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="placementId">
+        <attr name="placementId" format="string"/>
+    </declare-styleable>
+    <declare-styleable name="placementGroupId">
+        <attr name="placementGroupId" format="string"/>
+    </declare-styleable>
+    <declare-styleable name="uid">
+        <attr name="uid" format="string"/>
+    </declare-styleable>
+    <declare-styleable name="password">
+        <attr name="password" format="string"/>
+    </declare-styleable>
+
+</resources>
